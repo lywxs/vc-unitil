@@ -1,0 +1,5 @@
+# vc project 
+*.opensdf
+*.suo
+Release/
+Debug/

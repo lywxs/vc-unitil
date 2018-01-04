@@ -1,0 +1,10 @@
+# vc project 
+*.opensdf
+*.suo
+*.sdf
+*.aps
+*.filters
+*.user
+
+# ignore dir
+/ipch/

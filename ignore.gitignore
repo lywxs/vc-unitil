@@ -6,6 +6,5 @@
 *.filters
 *.user
 
-debug/*
-ipch/*
-release/*
+# ignore dir
+/ipch/

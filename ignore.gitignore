@@ -2,5 +2,9 @@
 *.opensdf
 *.suo
 *.sdf
+*.aps
+*.filters
+*.user
 Release/
 Debug/
+ipch/

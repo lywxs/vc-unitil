@@ -5,6 +5,7 @@
 *.aps
 *.filters
 *.user
-/Release/
-/Debug/
-/ipch/
+
+debug/*
+ipch/*
+release/*
